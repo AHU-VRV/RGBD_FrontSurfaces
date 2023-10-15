@@ -1,12 +1,12 @@
-### Fine Back Surfaces Oriented Human Reconstruction for Single RGB-D Images 
+# Fine Back Surfaces Oriented Human Reconstruction for Single RGB-D Images 
 
-# 1. Introduction: 
+## 1. Introduction: 
 This is the official code for the paper ‘Fine Back Surfaces Oriented Human Reconstruction 
 for Single RGB-D Images’, which can obtain robust human surface reconstruction 
 with a single RGB-D image. The article is published by Pacific Graphics 2023.
 
  
-# 2. Requirements: 
+## 2. Requirements: 
 
 Python 
 
@@ -19,7 +19,7 @@ Python-opencv
 Numpy 
  
 
-# 3. Pretrained models 
+## 3. Pretrained models 
 
 First, please download the pretrained models from this link: 
 https://drive.google.com/file/d/1asdOmDqfNDSTNbJdCx5wE1wdJhBEyFX2/vie
@@ -27,7 +27,7 @@ w?usp=drive_link
 
 Then, put the pretrained models in {myproject}/model/ 
 
-# 4. Test 
+## 4. Test 
 
 Generate the csv file for the demo images in {myproject}/data. 
  
@@ -45,7 +45,7 @@ python test.py
 
 Results are put in {myproject}/results/obj. 
 
-# 5. Citation 
+## 5. Citation 
 
 Please cite our paper if you feel this code is useful. Thanks. 
 
