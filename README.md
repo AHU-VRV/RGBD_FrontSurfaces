@@ -33,14 +33,14 @@ Adjust the number of file names in the createTestcsv file based on the format an
 number of file names in the example shown in demo to create a csv file that you want 
 to read. 
  
-cd data 
+cd data
 
-python createTestCsv.py 
+python createTestCsv.py
 
-cd .. 
- 
-python test.py 
- 
+cd ..
+
+python test.py
+
 Results are put in {myproject}/results/obj. 
 
 # 5. Citation 
