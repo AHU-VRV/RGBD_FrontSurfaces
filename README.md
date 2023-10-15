@@ -3,7 +3,7 @@
 ## 1. Introduction: 
 This is the official code for the paper ‘Fine Back Surfaces Oriented Human Reconstruction 
 for Single RGB-D Images’, which can obtain robust human surface reconstruction 
-with a single RGB-D image. The article is published by Pacific Graphics 2023.
+with a single RGB-D image. The article has been accepted by Pacific Graphics 2023 and published by CGF.
 
  
 ## 2. Requirements: 
