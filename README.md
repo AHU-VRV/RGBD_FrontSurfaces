@@ -44,8 +44,6 @@ Results are shown in {myproject}/results/obj.
 # 5. Citation 
 
 Please cite our paper if you feel this code is useful. Thanks. 
-Xianyong Fang, Yu Qian, Jinshen He, Linbo Wang, Zhengyi Liu. Fine Back Surfaces 
-Oriented Human Reconstruction for Single RGB-D Images, Pacific Graphics 2023.
 
 @article {FangQHWL2023fineback,
 
