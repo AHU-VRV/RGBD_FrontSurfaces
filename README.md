@@ -7,9 +7,13 @@ with a single RGB-D image. The article is published by Pacific Graphics 2023.
 # 2. Requirements: 
 
 Python 
+
 Pytorch 
+
 Trimesh 
+
 Python-opencv 
+
 Numpy 
  
 
@@ -24,22 +28,20 @@ Then, put the pretrained models in {myproject}/model/
 # 4. Test 
 
 Generate the csv file for the demo images in {myproject}/data. 
-
  
 Adjust the number of file names in the createTestcsv file based on the format and 
 number of file names in the example shown in demo to create a csv file that you want 
 to read. 
  
-## 
 cd data 
-python createTestCsv.py 
-cd .. 
-## 
-python test.py 
-## 
-Results are shown in {myproject}/results/obj. 
 
+python createTestCsv.py 
+
+cd .. 
  
+python test.py 
+ 
+Results are put in {myproject}/results/obj. 
 
 # 5. Citation 
 
